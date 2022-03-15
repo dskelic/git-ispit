@@ -16,6 +16,7 @@
     "babel-preset-env": "^1.7.0",
     "babelify": "^10.0.0",
     "browserify": "^17.0.0",
+    "randomstring": "^1.2.2",
     "watchify": "^3.11.1"
   }
 }
